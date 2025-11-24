@@ -34,3 +34,5 @@ The gateway (ESP32 + LoRa module) aggregates multihop packets and pushes data to
 - Custom packet structure (CRC16, header, payload)
 - Multi-hop testing and system evaluation
 - Hardware assembly + LoRa shield PCB
+
+![Alt text](Nucleo.webp)
